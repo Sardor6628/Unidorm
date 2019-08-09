@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UniDorm</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_about">about</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab_text_1">About</string>
+    <string name="tab_text_2">Contact us 1</string>
+    <string name="tab_text_3">Contact us 2</string>
+</resources>
