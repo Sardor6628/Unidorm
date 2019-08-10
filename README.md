@@ -20,9 +20,6 @@ Plese follow the link to go to demo video which illustrates working procces of t
 
 https://www.youtube.com/watch?v=hKyorYqcjjk&t=1s
 
-![photo6142957154009720860](https://user-images.githubusercontent.com/39268406/62816577-b5a31b80-bb64-11e9-876a-3566e9c71dda.jpg)
-![photo6142957154009720859](https://user-images.githubusercontent.com/39268406/62816581-c2277400-bb64-11e9-87e2-3d724157a944.jpg)
-![photo6142957154009720858](https://user-images.githubusercontent.com/39268406/62816584-c81d5500-bb64-11e9-98f0-b623bf48ab7b.jpg)
-![photo6142957154009720857](https://user-images.githubusercontent.com/39268406/62816587-cd7a9f80-bb64-11e9-8791-514c6ee6cb1b.jpg)
-![photo6142957154009720854](https://user-images.githubusercontent.com/39268406/62816589-d4091700-bb64-11e9-91da-bf556843aa13.jpg)
+![UniDorm](https://user-images.githubusercontent.com/39268406/62817297-fdc73b80-bb6e-11e9-8196-2ba9ce0ed8d5.jpg)
+
 
