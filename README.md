@@ -15,6 +15,11 @@ Chat with other residence of the dormitory
 Can access university web-site
 Can see public announcements 
 
+
+Plese follow the link to go to demo video which illustrates working procces of the app. 
+
+https://www.youtube.com/watch?v=hKyorYqcjjk&t=1s
+
 ![photo6142957154009720860](https://user-images.githubusercontent.com/39268406/62816577-b5a31b80-bb64-11e9-876a-3566e9c71dda.jpg)
 ![photo6142957154009720859](https://user-images.githubusercontent.com/39268406/62816581-c2277400-bb64-11e9-87e2-3d724157a944.jpg)
 ![photo6142957154009720858](https://user-images.githubusercontent.com/39268406/62816584-c81d5500-bb64-11e9-98f0-b623bf48ab7b.jpg)
